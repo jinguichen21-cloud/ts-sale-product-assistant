@@ -1,0 +1,11 @@
+{
+  "name": "ts-sale-product-assistant",
+  "version": "0.38.0",
+  "description": "查看店内商品建议。当用户询问\"店内商品建议\"、\"商品有什么问题\"、\"哪些商品需要整改\"、\"商品异常\"、\"商品巡检\"、\"店铺商品检查\"、\"商品质量\"、\"商品问题\"等相关问题时，调用此 skill 获取并展示店铺异常商品信息。",
+  "publishConfig": {
+    "registry": "https://contextlab.alibaba-inc.com/skill"
+  },
+  "aoneKit": {
+    "generated": true
+  }
+}
